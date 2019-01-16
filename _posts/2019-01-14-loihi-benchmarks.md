@@ -3,7 +3,7 @@ layout: post
 title: New Paper on Benchmarking Neuromorphic Hardware
 ---
 
-Through my work at [ABR](www.appliedbrainresearch.com), I've been involved in
+Through my work at [ABR](https://www.appliedbrainresearch.com), I've been involved in
 a project focused on benchmarking the speed and efficiency of a simple 
 keyword spotter running on Intel's new neuromorphic research chip 
 [Loihi](https://en.wikichip.org/wiki/intel/loihi). A paper outlining this work
