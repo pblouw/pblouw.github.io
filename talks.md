@@ -7,7 +7,7 @@ title: Presentations
 
 Blouw, P. Mapping DNNs to Loihi using Nengo. Intel Neuromorphic Research Community Workshop. *October 2018*.
 
-Blouw, P. Commentary on F. Zenker, Lund University: “From Discovery to Justification: Outline of an Ideal Research Program in Empirical Psychology,” University of Waterloo Philosophy Department Colloquium, *January 2018*.
+Blouw, P. Commentary on F. Zenker, Lund University: “From Discovery to Justification: Outline of an Ideal Research Program in Empirical Psychology.” University of Waterloo Philosophy Department Colloquium. *January 2018*.
 
 Blouw, P. & Eliasmith, C. Inferential role semantics for natural language. 39th Annual Conference of the Cognitive Science Society. *July 2017*.
 
@@ -20,7 +20,7 @@ Blouw, P. & Eliasmith, C. Constraint-based parsing with distributed representati
 Blouw P. Lecture on Language Processing with Nengo. 2nd Annual Nengo Summer School, University of Waterloo. *June 2015*.
 
 
-## Poster Presentations
+## Posters 
 
 Blouw, P., Bekolay, T., Stewart, T., & Eliasmith, C. Neuromorphic Keyword Detection. Neuro-inspired Computational Elements (NICE) Workshop. *February 2018*
 
