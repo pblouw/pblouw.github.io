@@ -5,6 +5,8 @@ title: Presentations
 
 ## Talks
 
+Blouw, P. Benchmarking DNNs on Loihi: Results to Date. Intel Neuromorphic Research Community Workshop. *February 2019*.
+
 Blouw, P. Mapping DNNs to Loihi using Nengo. Intel Neuromorphic Research Community Workshop. *October 2018*.
 
 Blouw, P. Commentary on F. Zenker, Lund University: “From Discovery to Justification: Outline of an Ideal Research Program in Empirical Psychology.” University of Waterloo Philosophy Department Colloquium. *January 2018*.
