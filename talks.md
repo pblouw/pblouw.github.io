@@ -5,6 +5,8 @@ title: Presentations
 
 ## Talks
 
+Blouw, P. Benchmarking Real-time Inference Efficiency on Neuromorphic Hardware. Neuro-inspired Computational Elements (NICE) Workshop. *March 2019*.
+
 Blouw, P. Benchmarking DNNs on Loihi: Results to Date. Intel Neuromorphic Research Community Workshop. *February 2019*.
 
 Blouw, P. Mapping DNNs to Loihi using Nengo. Intel Neuromorphic Research Community Workshop. *October 2018*.
