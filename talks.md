@@ -5,7 +5,9 @@ title: Presentations
 
 ## Talks
 
-Blouw P. Lecture on Spiking Deep Learning with Nengo. 6th Annual Nengo Summer School, University of Waterloo. *June 2019*.
+Blouw, P. Learning Instantaneous Adaptive Control for Object Manipulation. DARPA Electronics Resurgence Initiative (ERI) Summit. *July 2019*.
+
+Blouw, P. Lecture on Spiking Deep Learning with Nengo. 6th Annual Nengo Summer School, University of Waterloo. *June 2019*.
 
 Blouw, P. Benchmarking Real-time Inference Efficiency on Neuromorphic Hardware. Neuro-inspired Computational Elements (NICE) Workshop. *March 2019*.
 
