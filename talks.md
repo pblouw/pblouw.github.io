@@ -5,6 +5,10 @@ title: Presentations
 
 ## Talks
 
+Blouw, P. Introduction to Programming Loihi with Nengo. Intel Neuromorphic Research Community Workshop. *October 2019*.
+
+Blouw, P. Recent Developments in Neuromorphic Computing. Syracuse University. *October 2019*.
+
 Blouw, P. Learning Instantaneous Adaptive Control for Object Manipulation. DARPA Electronics Resurgence Initiative (ERI) Summit. *July 2019*.
 
 Blouw, P. Lecture on Spiking Deep Learning with Nengo. 6th Annual Nengo Summer School, University of Waterloo. *June 2019*.
