@@ -20,6 +20,8 @@ Turri, J., & Blouw, P. (2015). [Excuse validation: A study in rule-breaking](htt
 
 ## Refereed Conference Proceedings
 
+Blouw, P., Choo, X., Hunsberger, E., & Eliasmith, C. (2019). [Benchmarking keyword spotting efficiency on neuromorphic hardware](https://dl.acm.org/citation.cfm?id=3320304&dl=ACM&coll=DL). *Proceedings of the 7th Annual Neuro-inspired Computational Elements Workshop*, (pp. 1-8).
+
 Blouw, P. & Eliasmith, C. (2017). [Inferential role semantics for natural language](https://pblouw.github.io/files/cogsci2017.pdf). In *Proceedings of the 39th Annual Conference of the Cognitive Science Society*, (pp. 142-147). **Best Paper Prize for Computational Modelling of Languge**
 
 Blouw, P., Eliasmith, C., & Tripp, B. (2016). [A scalable spiking neuron model of action planning](https://pblouw.github.io/files/cogsci2016.pdf). In *Proceedings of the 38th Annual Conference of the Cognitive Science Society*, (pp. 1583-1588).
