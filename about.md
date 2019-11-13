@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-I recently finished my PhD in the [Philosophy Department](http://www.uwaterloo.ca/philosophy/) and the [Computational Neuroscience Research Group](http://compneuro.uwaterloo.ca) at the University of Waterloo. Right now, I work mostly on topics related to cognitive science and natural language processing. You can find out more about my current and past work by looking through the papers posted on this site.
+I work as research scientist at [Applied Brain Research](https://www.appliedbrainresearch.com), and neuromorphic computing company that spun out of the University of Waterloo. Before joining ABR, I did my PhD in the [Philosophy Department](http://www.uwaterloo.ca/philosophy/) and the [Computational Neuroscience Research Group](http://compneuro.uwaterloo.ca) at Waterloo. I mostly work on projects related to speech processing, language processing, planning, and reasoning.
 
 
