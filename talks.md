@@ -13,7 +13,7 @@ Blouw, P. Learning Instantaneous Adaptive Control for Object Manipulation. DARPA
 
 Blouw, P. Lecture on Spiking Deep Learning with Nengo. 6th Annual Nengo Summer School, University of Waterloo. *June 2019*.
 
-Blouw, P. Benchmarking Real-time Inference Efficiency on Neuromorphic Hardware. Neuro-inspired Computational Elements (NICE) Workshop. *March 2019*.
+Blouw, P. Benchmarking Real-time Inference Efficiency on Neuromorphic Hardware. Neuro-inspired Computational Elements (NICE) Workshop. *March 2019*.  [Video Presentation](https://www.youtube.com/watch?v=ePu1u5EOrj8&t=1s).
 
 Blouw, P. Benchmarking DNNs on Loihi: Results to Date. Intel Neuromorphic Research Community Workshop. *February 2019*.
 
