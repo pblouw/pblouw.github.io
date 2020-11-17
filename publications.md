@@ -3,6 +3,13 @@ layout: page
 title: Publications
 ---
 
+## Preprints
+
+Blouw, P., Malik, G., Morcos, B., Voelker, A., & Eliasmith, C. (2020). [Hardware
+aware training for efficient keyword spotting on general purpose and
+specialized hardware](https://arxiv.org/pdf/2009.04465.pdf). ArXiv Preprint arXiv:2009.04465
+
+
 ## Refereed Journal Articles
 
 Blouw, P. & Eliasmith, C. (2018). [Using neural networks to generate inferential roles for natural language](https://pblouw.github.io/files/frontiers2018.pdf). *Frontiers in Psychology*, 8(2335): 1-14.
