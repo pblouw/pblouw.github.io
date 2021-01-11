@@ -52,3 +52,8 @@ Blouw, P., Buckwalter, W. & Turri, J. (2017). [Gettier cases: A taxonomy](https:
 Blouw, P. (2017). [Inferential Role Semantics for Natural Language](https://uwspace.uwaterloo.ca/handle/10012/12170). University of Waterloo Doctoral Thesis.
 
 Blouw, P. (2011). [A Dynamic Account of the Structure of Concepts](https://uwspace.uwaterloo.ca/handle/10012/6225). University of Waterloo Masters Thesis.
+
+## Patents
+
+Blouw, P. and Eliasmith C. (2020). [Methods and systems for generating and
+traversing discourse graphs using artificial neural networks](https://patentimages.storage.googleapis.com/79/d6/cc/f9d21d6944ed10/US10860630.pdf). US Patent 10,860,630 
