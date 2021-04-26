@@ -3,14 +3,12 @@ layout: page
 title: Publications
 ---
 
-## Preprints
-
-Blouw, P., Malik, G., Morcos, B., Voelker, A., & Eliasmith, C. (2020). [Hardware
-aware training for efficient keyword spotting on general purpose and
-specialized hardware](https://arxiv.org/pdf/2009.04465.pdf). ArXiv Preprint arXiv:2009.04465
-
 
 ## Refereed Journal Articles
+
+Voelker, A., Blouw, P., Choo, X., Dumont, N., Stewart, T. & Eliasmith, C. (in
+press) Simulating and predicting dynamical systems with spatial semantic
+pointers. *Neural Computation*.
 
 Blouw, P. & Eliasmith, C. (2018). [Using neural networks to generate inferential roles for natural language](https://pblouw.github.io/files/frontiers2018.pdf). *Frontiers in Psychology*, 8(2335): 1-14.
 
@@ -22,6 +20,11 @@ Turri, J., & Blouw, P. (2015). [Excuse validation: A study in rule-breaking](htt
 
 
 ## Refereed Conference Proceedings
+
+Blouw, P., Malik, G., Morcos, B., Voelker, A., & Eliasmith, C. (2021). [Hardware
+aware training for efficient keyword spotting on general purpose and
+specialized hardware](https://arxiv.org/pdf/2009.04465.pdf). TinyML Summit
+2021.
 
 Blouw, P. & Eliasmith, C. (2020). [Event-driven signal processing with neuromorphic computing systems](https://ieeexplore.ieee.org/document/9053043). *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)* (pp. 8534-8538).
 
