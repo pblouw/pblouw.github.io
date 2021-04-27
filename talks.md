@@ -5,7 +5,7 @@ title: Presentations
 
 ## Talks
 
-Blouw, P.  Hardware Aware Training for Efficient Keyword Spotting on General Purpose and Specialized Hardware. TinyML Research Symposium. *March 2021*
+Blouw, P.  Hardware Aware Training for Efficient Keyword Spotting on General Purpose and Specialized Hardware. TinyML Research Symposium. *March 2021*. [Video Presentation](https://www.youtube.com/watch?v=hUlZwHqRyMM).
 
 Blouw, P. Introduction to Programming Loihi with Nengo. Intel Neuromorphic Research Community Workshop. *October 2019*.
 
