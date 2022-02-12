@@ -6,9 +6,8 @@ title: Publications
 
 ## Refereed Journal Articles
 
-Voelker, A., Blouw, P., Choo, X., Dumont, N., Stewart, T. & Eliasmith, C. (in
-press) Simulating and predicting dynamical systems with spatial semantic
-pointers. *Neural Computation*.
+Voelker, A., Blouw, P., Choo, X., Dumont, N., Stewart, T. & Eliasmith, C. (2021). [Simulating and predicting dynamical systems with spatial semantic
+pointers.](https://direct.mit.edu/neco/article/33/8/2033/102625/Simulating-and-Predicting-Dynamical-Systems-With) *Neural Computation*. 33 (8): 2033–2067.
 
 Blouw, P. & Eliasmith, C. (2018). [Using neural networks to generate inferential roles for natural language](https://pblouw.github.io/files/frontiers2018.pdf). *Frontiers in Psychology*, 8(2335): 1-14.
 
@@ -57,6 +56,10 @@ Blouw, P. (2017). [Inferential Role Semantics for Natural Language](https://uwsp
 Blouw, P. (2011). [A Dynamic Account of the Structure of Concepts](https://uwspace.uwaterloo.ca/handle/10012/6225). University of Waterloo Masters Thesis.
 
 ## Patents
+
+Voelker, A., Blouw, P., Dumont, N., Stewart, T., and Eliasmith, C. (pending). Methods and systems for simulating and predicting dynamical systems with vector-symbolic representations. US Patent Application 17/520,379, filed November 5, 2021.
+
+Voelker, A., Eliasmith, C. Blouw, P. (pending). [Methods and systems for storing and querying database entries with neuromorphic computers](https://patentimages.storage.googleapis.com/aa/0a/a4/5f96d8f71f2409/US20210133190A1.pdf). US Patent Application 16/930219, filed July 15, 2020.
 
 Blouw, P. and Eliasmith C. (2020). [Methods and systems for generating and
 traversing discourse graphs using artificial neural networks](https://patentimages.storage.googleapis.com/79/d6/cc/f9d21d6944ed10/US10860630.pdf). US Patent 10,860,630 
