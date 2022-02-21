@@ -17,9 +17,9 @@ baseurl:          ''
 #   name:           'Mark Otto'
 #   url:            https://twitter.com/mdo
 
-paginate:         5
+# paginate:         5
 gems:
-        [jekyll-paginate]
+        # [jekyll-paginate]
 
 # Custom vars
 version:          2.1.0
