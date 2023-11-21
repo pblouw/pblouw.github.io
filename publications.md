@@ -59,7 +59,7 @@ Blouw, P. (2011). [A Dynamic Account of the Structure of Concepts](https://uwspa
 
 Voelker, A., Blouw, P., Dumont, N., Stewart, T., and Eliasmith, C. (pending). [Methods and systems for simulating and predicting dynamical systems with vector-symbolic representations.](https://patents.google.com/patent/US20220138382A1/) US Patent Application 17/520,379, filed November 5, 2021.
 
-Voelker, A., Eliasmith, C., and Blouw, P. (pending). [Methods and systems for storing and querying database entries with neuromorphic computers](https://patentimages.storage.googleapis.com/aa/0a/a4/5f96d8f71f2409/US20210133190A1.pdf). US Patent Application 16/930219, filed July 15, 2020.
+Voelker, A., Eliasmith, C., and Blouw, P. (2023). [Methods and systems for storing and querying database entries with neuromorphic computers](https://patents.google.com/patent/US11741098B2/en). US Patent 11741098.
 
 Blouw, P. and Eliasmith C. (2020). [Methods and systems for generating and
-traversing discourse graphs using artificial neural networks](https://patentimages.storage.googleapis.com/79/d6/cc/f9d21d6944ed10/US10860630.pdf). US Patent 10,860,630 
+traversing discourse graphs using artificial neural networks](https://patentimages.storage.googleapis.com/79/d6/cc/f9d21d6944ed10/US10860630.pdf). US Patent 10860630 
